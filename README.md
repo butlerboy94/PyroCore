@@ -54,7 +54,7 @@ PyroCore/
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/PyroCore.git
+git clone https://github.com/butlerboy94/PyroCore.git
 cd PyroCore
 ```
 
@@ -74,7 +74,7 @@ cmake --build build --config Release
 **4. Run PyroCore**
 
 ```bash
-python src/python/engine.py --input data/your_file.csv
+python src/python/engine.py data/your_file.csv
 ```
 
 ---
@@ -85,7 +85,6 @@ PyroCore prints a summary statistics table to the terminal and generates the fol
 
 - Histogram of each numeric column
 - Bar chart comparing mean values across columns
-- Filtered dataset preview based on user-defined thresholds
 
 ---
 
