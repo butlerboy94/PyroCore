@@ -1,0 +1,30 @@
+# Claude session context — internal project notes, not for GitHub
+.claude/
+
+# CMake build output — generated files, not source code
+build/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Compiled Python extension modules produced by pybind11
+*.pyd
+*.so
+*.exp
+*.lib
+*.obj
+*.ilk
+*.pdb
+
+# Visual Studio local settings
+.vs/
+
+# Python cache files — generated automatically when Python imports modules
+__pycache__/
+*.pyc
+*.pyo
+
+# OS-generated files
+.DS_Store
+Thumbs.db

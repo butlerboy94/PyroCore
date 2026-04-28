@@ -1,0 +1,11 @@
+# pybind11 is the bridge between C++ and Python, allowing us to write performance-critical code in C++ and expose it to Python.
+pybind11
+
+# matplotlib is for charts and visualizations.
+matplotlib
+
+# numpy is for numerical computations that works with c++ output.
+numpy
+
+# pandas is for data manipulation, analysis, reading, and working with CSV files.
+pandas
